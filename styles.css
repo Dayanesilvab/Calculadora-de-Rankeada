@@ -1,0 +1,67 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+body {
+    background-image: url('/imagem/gifJogo.gif');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    z-index: 2;
+    background-image: url('/imagem/camuflagem_2.jpeg');
+    background-size: cover;
+    padding: 100px;
+    border-radius: 100px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-right: 0px;
+    width: 500px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #005007;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.red {
+    color:red;
+}
