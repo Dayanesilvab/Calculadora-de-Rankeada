@@ -26,7 +26,7 @@ Este é um projeto de uma calculadora para determinar o saldo de vitórias e der
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-de-rankeadas.git
+   git clone https://github.com/Dayanesilvab/Calculadora-de-Rankeada.git
 
 2. Navegue até o diretório do projeto:
    ```bash
