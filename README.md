@@ -35,15 +35,14 @@ Este é um projeto de uma calculadora para determinar o saldo de vitórias e der
 3.Abra o arquivo index.html em seu navegador preferido.
 ## Estrutura do Projeto
 
-calculadora-de-Rankeadas/
+<Pre>Calculadora-de-Rankeadas/
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── imagens/
-│   ├── balão.png
-│   ├── camuflagem.avif
-│   └── fundo.gif
-└── README.md
+│   ├── camuflagem_2.Png
+│   └── gifJogo.gif
+└── README.md</Pre>
 
 ## Contribuição
 
